@@ -1,0 +1,7 @@
+{
+  "name": "Mehu AI Assistant",
+  "description": "Mehu is a cute, scientific expert female AI assistant and best friend to Masumu, featuring real-time voice and text interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
